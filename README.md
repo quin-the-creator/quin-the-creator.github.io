@@ -1,4 +1,4 @@
-# I love you<3
+# I love you
 <!DOCTYPE html>
 <html lang="en">
 <head>
