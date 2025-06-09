@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Romantic Quotes</title>
+    <title>You are loved</title>
     <style>
         body {
             background-color: black;
